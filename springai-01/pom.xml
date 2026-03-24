@@ -7,9 +7,9 @@
 		<groupId>com.tispy.an</groupId>
 		<artifactId>SpringAiProject</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
+	<groupId>com.tispy.an.springai</groupId>
 	<artifactId>springai-01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springai-01</name>
