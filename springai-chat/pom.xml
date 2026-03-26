@@ -9,7 +9,6 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.tispy.an.springaichat</groupId>
     <artifactId>springai-chat</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springai-chat</name>

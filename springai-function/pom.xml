@@ -9,9 +9,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>springai-01</artifactId>
+	<artifactId>springai-function</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springai-01</name>
-	<description>springai-01</description>
+	<name>springai-function</name>
+	<description>springai-function</description>
 
 </project>

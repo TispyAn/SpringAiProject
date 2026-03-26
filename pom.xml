@@ -26,6 +26,9 @@
 
     <modules>
         <module>springai-01</module>
+        <module>springai-chat</module>
+        <module>springai-function</module>
+        <module>springai-ollama</module>
     </modules>
 
     <dependencyManagement>
