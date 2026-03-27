@@ -30,6 +30,8 @@
         <module>springai-function</module>
         <module>springai-ollama</module>
         <module>springai-alibaba</module>
+        <module>springai-rag</module>
+        <module>springai-all</module>
     </modules>
 
     <dependencies>
